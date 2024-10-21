@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         SLY Assistant
+// @name         JumpSLY Assistant
 // @namespace    http://tampermonkey.net/
 // @version      0.6.15
 // @description  try to take over the world!
